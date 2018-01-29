@@ -1,0 +1,14 @@
+Enter a letter or number from the keyboard. 	  The upper case of that letter is: D
+
+Would you like to go again? Enter 1 for yes, 0 for no. 
+Enter a letter or number from the keyboard. 	  The lower case of that letter is: r
+
+Would you like to go again? Enter 1 for yes, 0 for no. 
+Enter a letter or number from the keyboard.    You entered an even number.
+   6 cubed is 216.
+
+Would you like to go again? Enter 1 for yes, 0 for no. 
+Enter a letter or number from the keyboard.    You entered an odd number.
+   3 cubed is 27.
+
+Would you like to go again? Enter 1 for yes, 0 for no. 
